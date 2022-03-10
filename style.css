@@ -1,20 +1,41 @@
+/*=============== FONT CHANGE  =========== */
+
 .fontchange {
     font-family: 'Times New Roman', Times, serif;
 }
 
 body {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(32, 116, 11);
 }
 
 label {
     color: white;
 }
 
+
+/*===================  CONTAINER COLOR ====================== */
+
 .bg-one {
-    background-color: rgb(102, 100, 100);
-    border-radius: 20px;
+    background-color: rgb(35, 53, 35);
+    border-radius: 30px;
 }
 
+
+/*==================== OPTIONS COLOR ==================== */
+
 .choice-div {
+    color: white;
+}
+
+
+/*=================== SURVEY FORM TITLE =================== */
+
+#title {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#description {
     color: white;
 }
